@@ -6,7 +6,7 @@ This project leverages data analytics to determine the best-performing XI player
 ### Data Acquisition and Preparation
        Data Source: The match data was sourced from a reputable online platform.
        Data Cleaning: Extensive cleaning and transformation were performed using Pandas in Python to ensure the dataset was accurate and ready for analysis.
-       Scripts: data_preparation.py contains the Python scripts for data cleaning and preparation.
+       Scripts: t20_cricket_data_1.ipynb contains the Python scripts for data cleaning and preparation.
 ### Performance Analysis
        Dynamic Filtering: Various filters were applied to evaluate players based on different performance metrics such as batting average, strike rate, bowling economy, etc.
        Selection Criteria: The analysis supports multiple criteria for selecting the best XI, allowing users to adjust parameters based on their preferences.
